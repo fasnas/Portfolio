@@ -1,0 +1,241 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 0;
+
+    }
+    .a{
+        width: 100%;
+        height: 100vh;
+        background-image: url(wallpaperflare.com_wallpaper\ \(5\).jpg);
+        background-size: cover;
+
+    }
+    
+    .first{
+        width: 100%;
+        height: 6vh;
+        border-bottom: .5px solid rgb(23, 18, 18);
+        background-color: rgba(115, 109, 109, 0.285);
+        background: fixed;
+    }
+    .nav-link{
+        text-align: center;
+        color: black;
+    
+    }
+    .second{
+        width: 100%;
+        height: 94vh;
+        display: flex;
+    }
+    .second-first{
+        margin-left: 790px;
+        margin-top: 13vi;
+        width: 560px;
+        height: 300px;
+        
+    }
+    .second-second{
+       width: 300px;
+       height: 400px;
+       border: 1px solid black;
+       border-radius: 20px;
+       margin-top: 9vi;
+       margin-left: 150px;
+       background-image: url(images/wallpaperflare.com_wallpaper.jpg);
+    }
+    h3{
+        color: brown;
+    }
+    h1{
+        color: black;
+        font-family: serif;
+        font-weight: 500;
+    }
+    h5{
+      color: rgba(0, 0, 0, 0.769);
+      font-family: sans-serif;
+    }
+    .first-button{
+        width: 100px;
+        height:45px;
+        background-color:rgba(250, 248, 248, 0.960);
+        border-radius: 20px;
+        margin-top: 15px;
+        font-size: medium;
+        font-weight: 500;
+    }
+    .second-button{
+        margin-left: 30px;
+        width: 100px;
+        height:45px;
+        background-color: rgba(250, 248, 248, 0.961);
+        border-radius: 20px;
+        font-weight: 500;
+    }
+    .second-button:hover{
+        background-color: rgb(215, 183, 141);
+    }
+    .first-button:hover{
+        background-color: green;
+    }
+    .b{
+        width: 100%;
+        height: 100vh;
+        background-color:white;
+        color: brown;
+        text-align: center;
+    }
+    .b{
+         background-color:black;
+        font-style: inherit;
+        h1{
+           color: white;
+        }
+        h5{
+            color: white;
+        }
+    
+    }
+    .page2main{
+        width: 100%;
+        height: 95vh;
+        background-color:black;
+        display: flex;
+        justify-content: center;
+    }
+    .page21{
+        width: 55%;
+        height: 60vb;
+        background-color:black;
+        border: 1px solid white;
+        border-radius: 25px;
+        margin-top: 100px;
+        position: relative;
+        color: white;
+    }
+    .page22{
+        width: 25%;
+        height: 60vb;
+    
+        border: 1px solid white;
+        border-radius: 25px;
+        margin-left: 45px;
+        margin-top: 100px;
+    }
+    img{
+        width: 100%;
+        height: 100%;
+    }
+    .type{
+        list-style: none;
+    }
+    .inline{
+        width: 100%;
+        height: 200px;
+    
+        border: 1px solid black;
+        display: flex;
+        justify-content: space-around;
+    }
+    .z{ 
+        margin-top: 20px;
+        width: 22%;
+        height: 80%;
+        border:1px solid black;
+        border-radius: 25px;
+        background-color: aliceblue;
+    }
+    .h{
+        border-radius: 25px;
+    }
+    .i:hover{
+        box-shadow: 1px 1px 20px orangered;
+        
+    }
+    .j:hover{
+        box-shadow: 1px 1px 20px rgb(48, 125, 232);
+    
+    }
+    .k:hover{
+        box-shadow: 1px 1px 20px rgb(255, 251, 0);
+        
+        
+    }
+    .c{
+        width: 100%;
+        height: 100vh;
+        background-color:black;
+        color: white;
+        border-bottom: 1px  solid rgba(255, 255, 255, 0.384);
+    
+        
+    }.hh{
+        width: 40%;
+        height: 25vh;
+        border: 1px solid black;
+        border-radius: 25px;
+        text-align: center;
+        transition: transform (0.5s);
+    }
+    .ii{
+        text-align: center;
+        width: 40%;
+        height: 25vh;
+        margin-left: 50px;
+        border: 1px solid black;
+        border-radius: 25px;
+    }
+    .jj{
+        text-align: center;
+        width: 40%;
+        height: 25vh;
+        margin-top: 30px;
+        border: 1px solid black;
+        border-radius: 25px;
+    }
+    .kk{
+        text-align: center;
+        width: 40%;
+        height: 25vh;
+        margin-left: 50px;
+        margin-top: 30px;
+        border: 1px solid black;
+        border-radius: 25px;
+    }
+    .fff{
+        justify-content: center;
+    }
+    
+    .hh:hover{
+        background-color:rgba(234, 55, 55, 0.328);
+        zoom: 98%;
+    }
+    .jj:hover{
+        background-color:rgba(234, 55, 55, 0.328);
+        zoom: 98%;
+    }
+    .kk:hover{
+        background-color:rgba(234, 55, 55, 0.328);
+        zoom: 98%;
+    }
+    .ii:hover{
+        background-color:rgba(234, 55, 55, 0.328);
+        zoom: 98%;
+    }
+    .d{
+        width: 100%;
+        height: 100vh;
+        background-color:black;
+    }
+    .last{
+        width: 100%;
+        height: 30vh;
+        background-color: red;
+        display:flex;
+    }
+    
+    
